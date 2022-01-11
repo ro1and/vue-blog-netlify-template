@@ -2,7 +2,7 @@
   <transition appear name="v--mask">
     <footer v-once class="blog__footer">
       <div class="signature cosmicjs">
-        Proudly powered by <a href="https://cosmicjs.com" target="_blank">Cosmic JS</a>
+        Find our NFT Collection on <a href="https://opensea.io/collection/inuft" target="_blank">OpenSea</a>
       </div>
     </footer>
   </transition>
