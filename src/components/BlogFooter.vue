@@ -2,7 +2,7 @@
   <transition appear name="v--mask">
     <footer v-once class="blog__footer">
       <div class="signature cosmicjs">
-        Find our NFT Collection on <a href="https://opensea.io/collection/inuft" target="_blank">OpenSea</a>
+        Copyright 2022 <a href="https://opensea.io/collection/inuft" target="_blank">InuFT</a>
       </div>
     </footer>
   </transition>
