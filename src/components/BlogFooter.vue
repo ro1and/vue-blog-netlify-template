@@ -2,7 +2,7 @@
   <transition appear name="v--mask">
     <footer v-once class="blog__footer">
       <div class="signature cosmicjs">
-        Copyright 2022 <a href="https://opensea.io/collection/inuft" target="_blank">InuFT</a>
+        © 2022 InuFT
       </div>
     </footer>
   </transition>
